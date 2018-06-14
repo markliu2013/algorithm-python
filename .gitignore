@@ -1,0 +1,8 @@
+# IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+
+# OSX
+.DS_Store
